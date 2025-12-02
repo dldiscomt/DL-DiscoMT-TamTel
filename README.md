@@ -7,7 +7,7 @@
 
 Download the model from the provided drive link: 
 
-    [https://drive.google.com/drive/folders/1kNMNhIgnen98-PdemI5u6IdsLwOpT9EP?usp=sharing](https://drive.google.com/drive/folders/1kNMNhIgnen98-PdemI5u6IdsLwOpT9EP?usp=sharing)
+ [https://drive.google.com/drive/folders/1kNMNhIgnen98-PdemI5u6IdsLwOpT9EP?usp=sharing](https://drive.google.com/drive/folders/1kNMNhIgnen98-PdemI5u6IdsLwOpT9EP?usp=sharing)
 
 Alternatively, you can use the following command:
 
