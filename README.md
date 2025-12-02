@@ -87,7 +87,7 @@ Or on Ubuntu:
 ## Screenshots
 input :"ஆந்திர அரசு விளையாட்டு போட்டிகளை அறிவித்துள்ளது."
 <br>
-![App Screenshot](https://github.com/dldiscomt/DL-DiscoMT-TamMal/blob/main/OutputScreenshots/Picture1.jpg?raw=true)
+![App Screenshot](https://github.com/dldiscomt/DL-DiscoMT-TamTel/blob/main/output/telpicture.jpg?raw=true)
 
 ## Demo
 
